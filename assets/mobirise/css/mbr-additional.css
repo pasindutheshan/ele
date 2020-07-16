@@ -1113,10 +1113,10 @@ section.lazy-placeholder:after {
 .cid-s4SmdI7l9a {
   padding-top: 0px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/electric-motor-repairing-service-1592081.jpg");
+  background-color: #c1c1c1;
 }
 .cid-s4SmAL2pZX {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1133,7 +1133,7 @@ section.lazy-placeholder:after {
   border-radius: 3px;
 }
 .cid-s4SmAL2pZX .google-map {
-  height: 26rem;
+  height: 25rem;
   position: relative;
 }
 .cid-s4SmAL2pZX .google-map iframe {
