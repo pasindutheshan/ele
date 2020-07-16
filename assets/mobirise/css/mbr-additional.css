@@ -732,7 +732,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4V2eWeoKQ .card-wrapper {
   border-top: 1px solid #efefef;
-  background-color: #ffffff;
+  background-color: #efefef;
   position: relative;
   justify-content: unset;
 }
@@ -756,6 +756,9 @@ section.lazy-placeholder:after {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-s4V2eWeoKQ .card-title {
+  text-align: left;
 }
 .cid-s4SlxoJN7g .navbar {
   background: #ffffff;
