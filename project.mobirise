@@ -143,6 +143,9 @@
             ".card-title": {
               "text-align": "left",
               "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff"
             }
           },
           "_name": "services3",
