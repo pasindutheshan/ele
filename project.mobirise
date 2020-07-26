@@ -58,16 +58,16 @@
     "uniqCompNum": 54,
     "versionPublish": "5.0.17",
     "screenshot": "screenshot.png",
-    "imageResize": false,
+    "imageResize": true,
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-173596229-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-173596229-1');\n</script>\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-173596229-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-173596229-1');\n</script>\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -78,7 +78,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/electric-motor-repairing-service-1592081.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/facebook%20post%20940x788%20px-940x788.jpg"
       },
       "components": [
         {
