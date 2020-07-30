@@ -83,7 +83,8 @@
         "meta_descr": "සියලුම ගෘහ විදුලි උපකරණ අලුත් වැඩියාව,  \nගෘහස්ත විදුලි රැහන් ඇදීම,   සියලුම විදුලි මොටර් නැවත එතීම,   සියලුම විදුලි කාර්මික වැඩ\n\n\n",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/109962206_999980593793038_4834799184838901992_o-843x1192.jpg"
       },
       "components": [
         {
