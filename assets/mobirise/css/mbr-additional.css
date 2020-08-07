@@ -2540,8 +2540,8 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-s6XYVbut4x {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s6XYVbut4x .title {
@@ -2559,4 +2559,18 @@ section.lazy-placeholder:after {
 }
 .cid-s6XYVbut4x textarea.form-control {
   min-height: 188px;
+}
+.cid-s6ZzdNX5nE {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #022c3a;
+}
+.cid-s6ZzdNX5nE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s6ZzdNX5nE .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-s6ZzdNX5nE H2 {
+  color: #ffffff;
 }
