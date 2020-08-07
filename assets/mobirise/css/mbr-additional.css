@@ -2096,26 +2096,43 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-s6XYVbut4x {
+.cid-s6XZ6lC30h {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s6XYVbut4x .title {
-  margin-bottom: 2rem;
+.cid-s6XZ6lC30h h3 {
+  text-align: center;
+  font-weight: 300;
 }
-.cid-s6XYVbut4x .mbr-section-subtitle {
+.cid-s6XZ6lC30h .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-s6XZ6lC30h .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s6XYVbut4x a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-s6XZ6lC30h .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
 }
-.cid-s6XYVbut4x a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
+.cid-s6XZ6lC30h ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
 }
-.cid-s6XYVbut4x textarea.form-control {
-  min-height: 188px;
+.cid-s6XZ6lC30h path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-s6XZ6lC30h .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-s6XZ6lC30h .mbr-section-title {
+  color: #00ff4f;
+  text-align: center;
 }
 .cid-s4SlxoJN7g .navbar {
   background: #073b4c;
@@ -2522,41 +2539,24 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-s6XZ6lC30h {
+.cid-s6XYVbut4x {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s6XZ6lC30h h3 {
-  text-align: center;
-  font-weight: 300;
+.cid-s6XYVbut4x .title {
+  margin-bottom: 2rem;
 }
-.cid-s6XZ6lC30h .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-s6XZ6lC30h .mbr-section-subtitle {
+.cid-s6XYVbut4x .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s6XZ6lC30h .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
+.cid-s6XYVbut4x a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
 }
-.cid-s6XZ6lC30h ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
+.cid-s6XYVbut4x a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
 }
-.cid-s6XZ6lC30h path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-s6XZ6lC30h .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-s6XZ6lC30h .mbr-section-title {
-  color: #00ff4f;
-  text-align: center;
+.cid-s6XYVbut4x textarea.form-control {
+  min-height: 188px;
 }
