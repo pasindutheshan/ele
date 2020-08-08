@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#0c5066",
         "#022c3a",
         "#4a69da",
         "#5e40e8",
         "#002835",
         "#00ff4f",
-        "#3e7586",
-        "#265b6d"
+        "#3e7586"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -615,7 +615,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "socialFacebook": true,
-            "postsNumber": "3",
+            "postsNumber": "2",
             "socialGoogle": false,
             "socialDisqus": false,
             "shortName": "",
@@ -624,7 +624,7 @@
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/3551895-2000x1333.jpg",
             "overlay": true,
-            "overlayColor": "#022c3a",
+            "overlayColor": "#0c5066",
             "overlayOpacity": "0.9"
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
