@@ -717,10 +717,11 @@ section.lazy-placeholder:after {
 }
 .cid-s4SmdI7l9a H1 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-s4SmdI7l9a .mbr-text,
 .cid-s4SmdI7l9a .mbr-section-btn {
-  text-align: center;
+  text-align: left;
 }
 .cid-s5sNKtvbKs {
   padding-top: 45px;

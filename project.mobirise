@@ -104,10 +104,11 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "header6",
