@@ -624,7 +624,7 @@
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/3551895-2000x1333.jpg",
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#3e7586",
             "overlayOpacity": "0.9"
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
