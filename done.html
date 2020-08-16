@@ -131,9 +131,9 @@
         </div>
 </div></section>
 
-<script src="//code.jquery.com/jquery.min.js"></script>
-<script src="animationCounter.js"></script>
-
+ <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="animationCounter.js" charset="utf-8"></script>
+    <script type="text/javascript">
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5"></script>
@@ -149,13 +149,22 @@
   <script src="assets/dropdown/js/navbar-dropdown.js"></script>
   <script src="assets/theme/js/script.js"></script>
 
-  <span class="demo"></span>
-$('.demo').animationCounter({
-start: 0,
-end: 1000
-  delay: 10
-});
-  
+ 
   <input name="animation" type="hidden">
+  
+    $('#counter-block').ready(function(){
+        $('.fb').animationCounter({
+          start: 0,
+          step: 1,
+          delay:10
+        });
+        $('.coffee').animationCounter({
+          start: 490,
+          end: 1560,
+          step: 20,
+          delay: 90,
+          txt: ' cl'
+        });
+    });
   </body>
 </html>
