@@ -222,7 +222,24 @@
         </div>
     </div>
 </section>
-
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="../animationCounter.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    $('#counter-block').ready(function(){
+        $('.fb').animationCounter({
+          start: 0,
+          step: 1,
+          delay:10
+        });
+        $('.coffee').animationCounter({
+          start: 490,
+          end: 1560,
+          step: 20,
+          delay: 90,
+          txt: ' cl'
+        });
+    });
+    </script>
 <section class="testimonials1 cid-s6XRVbUsfk mbr-parallax-background" id="testimonials1-1i">
 
     
@@ -400,7 +417,9 @@
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
-  
+   <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="Animated-Number-Counter-Plugin-For-jQuery-animationCounter-js/animationCounter.js" charset="utf-8"></script>
+   
   
   <input name="animation" type="hidden">
   </body>
