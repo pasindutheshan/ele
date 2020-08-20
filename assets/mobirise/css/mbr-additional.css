@@ -710,40 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s7Hm7fdjyX {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/karsten-wurth-lsj9jhkiqhg-unsplash-2000x1322.jpg");
-}
-.cid-s7Hm7fdjyX .form-control,
-.cid-s7Hm7fdjyX .form-control:focus {
-  background: #efefef;
-  border: 1px solid #ffffff;
-}
-.cid-s7Hm7fdjyX .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-s7Hm7fdjyX textarea.form-control {
-  min-height: 188px;
-}
-.cid-s7Hm7fdjyX .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-s7Hm7fdjyX .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-s7Hm7fdjyX H1 {
-  text-align: left;
-}
-.cid-s7Hm7fdjyX .mbr-text,
-.cid-s7Hm7fdjyX .mbr-section-btn {
-  text-align: left;
-}
 .cid-s4SlxoJN7g .navbar {
   background: #ffffff;
   transition: none;
@@ -1155,6 +1121,17 @@ section.lazy-placeholder:after {
   background-repeat: no-repeat;
   background-color: #FFF;
   background-position: center;
+}
+.cid-s8aI2nk805 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/karsten-wurth-lsj9jhkiqhg-unsplash-2000x1322.jpg");
+}
+.cid-s8aI2nk805 P {
+  color: #767676;
+}
+.cid-s8aI2nk805 H1 {
+  color: #ffffff;
 }
 .cid-s7VPZmDgbZ {
   padding-top: 0px;
