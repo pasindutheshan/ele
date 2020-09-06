@@ -1,4 +1,6 @@
 AuthType Basic
-AuthName "tc electrical"
-AuthUserFile /img/.htpasswd
-require valid-user
+AuthName "pasindu"
+AuthUserFile /.htpasswd
+Require user pasindu
+Satisfy All
+
